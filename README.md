@@ -4,7 +4,6 @@
 
 <p align="center">
   <img alt="badge" src="https://shieldcn.dev/npm/react.svg" />
-  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Built%20with%20Claude.svg?brand=claude&amp;mode=dark"><img alt="Claude badge" src="https://shieldcn.dev/badge/Built%20with%20Claude.svg?brand=claude&amp;mode=light"></picture>
   <a href="https://github.com/astraspac2/LunaOS"><img alt="badge" src="https://shieldcn.dev/github/astraspac2/LunaOS/stars.svg" /></a>
 </p>
 
