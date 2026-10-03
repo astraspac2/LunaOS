@@ -315,3 +315,7 @@ LunaOS is an ongoing project, and its journey is just beginning.
 <p align="center">
   <a href="https://github.com/astraspac2/LunaOS/graphs/contributors"><img alt="contributors" src="https://shieldcn.dev/contributors/astraspac2/LunaOS.svg?mode=dark" /></a>
 </p>
+## 👥 Contributors
+
+* **You** ([@astraspac2](https://github.com/astraspac2)) - Lead Developer
+* **Claude** ([Anthropic](https://claude.ai)) - AI Pair Programmer & Contributor
